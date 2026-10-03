@@ -1,0 +1,228 @@
+2015 Classic 12 Standings
+
+                      
+  C12 North          W    L   Pct    GB   E#   L10  Stk Runs  Opp  Diff   Home    Road     Div     vsL     vsR    1Run      EI
+x-Avery Tards       92   60  .605     -    -   7-3   L3  741  619   122   46-30   46-30   53-39   21-14   69-45   26-23   12-7
+  Dou's Crew        86   66  .566   6.0    E   4-6   W1  621  562    59   42-34   44-32   53-39   18-21   68-44   28-26   13-8
+  Skramalonians     75   77  .493  17.0    E   7-3   W2  636  677   -41   34-42   41-35   42-50   21-25   41-40   24-19    7-12
+  Morgen Grinders   70   82  .461  22.0    E   5-5   W3  597  600    -3   36-40   34-42   47-45   13-15   57-67   21-27    8-5
+  Incarnations      62   90  .408  30.0    E   5-5   W1  515  586   -71   30-46   32-44   35-57   11-16   48-71   18-31   10-6
+
+  C12 South          W    L   Pct    GB   E#   L10  Stk Runs  Opp  Diff   Home    Road     Div     vsL     vsR    1Run      EI
+x-Co Operators      88   64  .579     -    -   3-7   L1  603  506    97   39-37   49-27   54-38   24-15   61-49   21-19   13-3
+  Coop d'etat       80   72  .526   8.0    E   4-6   L2  663  582    81   43-33   37-39   55-37   12-14   50-39   18-18    9-11
+  Rivercrypts       76   76  .500  12.0    E   5-5   L1  567  579   -12   37-39   39-37   41-51   19-18   53-56   27-22    7-11
+  B-Rads            71   81  .467  17.0    E   5-5   W1  577  611   -34   35-41   36-40   43-49   15-16   56-65   25-24    8-13
+  Fentonators       60   92  .395  28.0    E   4-6   L1  534  732  -198   33-43   27-49   37-55   15-18   44-69   16-14    5-11
+
+  Wild Card Standings
+                    W   L   Pct    GB 
+  Dou's Crew       86  66  .566     -
+  Coop d'etat      80  72  .526   6.0
+  Rivercrypts      76  76  .500  10.0
+  Skramalonians    75  77  .493  11.0
+  B-Rads           71  81  .467  15.0
+  Morgen Grinders  70  82  .461  16.0
+  Incarnations     62  90  .408  24.0
+  Fentonators      60  92  .395  26.0
+_________________________________________________________________________________________________________
+
+Batting       G   AB    H  2B  3B  HR Runs  RBI   BB    K HBP  SH  SF  SB  CS   SB%   DP  Avg   OB  Slg  Ops
+Avery Tards 152 5344 1459 324  28 143  741  720  556 1106  48  58  36  75  43  63.6  107 .273 .345 .424 .769
+Skramalonia 152 5382 1429 214  31 101  636  604  429 1135  54  40  42 164  65  71.6  112 .266 .324 .373 .697
+Co Operator 152 5259 1370 263  38 117  603  584  474 1316  35  57  27  84  34  71.2  108 .261 .324 .392 .716
+Dou's Crew  152 5335 1386 278  27 138  621  600  344 1336  38  34  29  99  37  72.8  130 .260 .308 .400 .707
+Morgen Grin 152 5187 1334 248  20 124  597  575  364 1064  32  60  32  76  38  66.7  128 .257 .308 .384 .693
+B-Rads      152 5332 1370 255  46 107  577  555  369 1175  50  36  34  46  26  63.9   96 .257 .309 .382 .691
+Coop d'etat 152 5214 1326 254  41 132  663  645  421 1147  29  59  36 145  58  71.4  101 .254 .312 .395 .706
+Fentonators 152 5226 1300 230  19 107  534  524  392 1214  36  64  30  63  24  72.4  120 .249 .304 .361 .665
+Rivercrypts 152 5160 1256 247  20 129  567  547  432 1168  50  51  46  75  29  72.1  113 .243 .306 .374 .680
+Incarnation 152 5189 1224 195  24 113  515  489  330 1148  50  51  22 171  59  74.3  103 .236 .287 .348 .635
+TOTAL      1520     13454     294     6054      4111      422     334     413       1118      .313
+               52628     2508    1211      5843     11809     510     998      70.7      .256      .384
+_________________________________________________________________________________________________________
+
+Pitching      G  CG   IP   BF    H    R   ER  HR   BB    K HBP  WP  BK SHO  SV       Avg   OB  Slg  ERA
+Co Operator 152   5 1370 5711 1259  506  474  74  407 1136  57  56   3  18  47      .243 .304 .342 3.11
+Rivercrypts 152   1 1370 5826 1418  579  523  87  377 1170  32  43   1  11  48      .267 .317 .376 3.43
+Dou's Crew  152   3 1392 5782 1230  562  532 120  453 1053  48  49   0  11  47      .237 .302 .358 3.44
+Coop d'etat 152   1 1370 5835 1370  582  547 122  397 1166  42  31   6  12  44      .258 .313 .392 3.59
+Incarnation 152   5 1369 5727 1285  586  548 117  435 1160  44  46   4  11  36      .249 .311 .375 3.60
+B-Rads      152   3 1372 5788 1272  611  557 124  438 1257  42  55   8  13  48      .243 .305 .374 3.65
+Morgen Grin 152   0 1357 5750 1325  600  558 115  400 1279  43  61   2   6  44      .254 .311 .377 3.70
+Avery Tards 152   9 1376 5806 1416  619  570 120  370 1299  30  42   2  10  41      .266 .315 .406 3.73
+Skramalonia 152   5 1384 5911 1468  677  626 166  353 1110  50  40   3  12  40      .271 .320 .414 4.07
+Fentonators 152   5 1361 5880 1411  732  682 166  481 1179  34  48   5  10  42      .268 .330 .419 4.51
+TOTAL      1520    13721     13454      5617     4111      422      34     437           .313      3.68
+                 37     58016      6054     1211     11809     471     114          .256      .383
+_________________________________________________________________________________________________________
+
+Fielding      G   PO  Ast  OfA    E   TC   DP   TP   PB  SB  CS   SB%  Pct
+Incarnation 152 4101 1546   46   75 5722  124    0    6  74  43  63.2 .987
+Dou's Crew  152 4178 1631   23   77 5886  121    0   10  88  46  65.7 .987
+Fentonators 152 4084 1498   31   71 5653  120    0   10  82  43  65.6 .987
+Avery Tards 152 4129 1521   34   82 5732  117    0   11 152  49  75.6 .986
+Co Operator 152 4111 1579   21   81 5771  129    0   16 102  41  71.3 .986
+Rivercrypts 152 4112 1635   29   89 5836  137    0    2  37  41  47.4 .985
+Morgen Grin 152 4072 1411   36   88 5571   93    0   13 136  41  76.8 .984
+Coop d'etat 152 4111 1514   27   92 5717  104    0    8 111  33  77.1 .984
+Skramalonia 152 4152 1559   27   96 5807  131    0   10 106  39  73.1 .983
+B-Rads      152 4116 1579   21  105 5800  114    0    6 110  37  74.8 .982
+TOTAL      1520     15473       856      1190        92     413       .985
+               41166       295     57495         0      998      70.7
+_________________________________________________________________________________________________________
+    Action! PC Leader Boards
+
+    Batting                      Avg    G  AB   R   H  2B 3B HR   TB RBI  BB   K HBP  SB CS
+  1 Eaton,Adam*            AVC  .329  118 492  65 162  33  6  1  210  57  55  90   2  22 12
+  2 Yelich,Christian*      COO  .327  136 563  94 184  34  5 16  276  60  70 129   1  23 10
+  3 Adams,Matt*            COO  .321  138 455  60 146  31  3 12  219  66  17  82   4   3  2
+  4 Pujols,Albert          CO2  .314  152 609  87 191  48  0 30  329 120  32  72   8   4  2
+  5 Utley,Chase*           AVC  .307  148 605  92 186  43  6 12  277  77  36  83   6  12  5
+  6 Revere,Ben*            SLA  .300  134 586  70 176  10  2  1  193  30  15  43   3  77 21
+  7 Ramirez,Aramis         SKR  .298  137 521  54 155  25  3 19  243  85  19  70  16   0  0
+  8 Gomez,Carlos           DOU  .297  144 606 102 180  32  7 23  295  69  44 147  17  51 11
+  9 Heyward,Jason*         SKR  .296  114 442  73 131  17  5  5  173  48  60  76   3  27  3
+ 10 Kendrick,Howie         DOU  .292  148 630  86 184  30  5  6  242  48  35 140   3  22  8
+
+    Doubles                      Hits                          Runs                          Stolen Bases
+ 1 Pujols       CO2    48     1 Pujols       CO2   191      1 Stanton, G   AVC   109      1 Revere       SLA    77
+ 2 Lucroy       COM    46     2 Gordon, D    SKR   187      2 Gomez, C     DOU   102      2 Gordon, D    SKR    68
+ 3 Utley, C     AVC    43     3 Utley, C     AVC   186      3 Trout        COO    98      3 Gomez, C     DOU    51
+ 4 Freeman, F   SKR    42     4 Kendrick, H  DOU   184      4 Gordon, D    SKR    95      4 Blackmon     SLA    37
+ 5 Trout        COO    42     5 Yelich       COO   184      5 Yelich       COO    94      5 Span         SKR    27
+
+    Triples                      Total Bases                   Walks                         On Base%
+ 1 Crawford, B  CO2    12     1 Pujols       CO2   329      1 Carpenter, M AVC    84      1 Yelich       COO  .402
+ 2 Trout        COO    10     2 Stanton, G   AVC   323      2 Stanton, G   AVC    83      2 Eaton        AVC  .397
+ 3 Rendon, A    COM     9     3 Trout        COO   306      3 Smith, S     SEG    80      3 Heyward      SKR  .380
+ 4 Pence, H     COM     9     4 Gomez, C     DOU   295      4 Freeman, F   SKR    72      4 Trout        COO  .374
+ 5 Gordon, D    SKR     8     5 Upton, J     DOU   290      5 Yelich       COO    70      5 Gomez, C     DOU  .360
+
+    Home Runs                    Runs Batted In                Strikeouts                    Slugging%
+ 1 Stanton, G   AVC    48     1 Pujols       CO2   120      1 Desmond      SLA   214      1 Duda         SEG  .567
+ 2 Duda         SEG    40     2 Stanton, G   AVC   119      2 Upton, J     DOU   187      2 Stanton, G   AVC  .564
+ 3 Upton, J     DOU    31     3 Duda         SEG   104      3 Trout        COO   183      3 Trout        COO  .545
+ 4 Pujols       CO2    30     4 Upton, J     DOU   101      4 Stanton, G   AVC   176      4 Pujols       CO2  .540
+ 5 Trout        COO    27     5 Pence, H     COM    90      5 Freeman, F   SKR   161      5 Yelich       COO  .490
+
+    Games                        Avg vs LHP                    OPS                           Hit By Pitch
+ 1 Freeman, F   SKR   152     1 Ramirez, A   SKR  .386      1 Duda         SEG  .924      1 Gomez, C     DOU    17
+ 2 Pujols       CO2   152     2 Eaton        AVC  .358      2 Trout        COO  .920      2 Ramirez, A   SKR    16
+ 3 Desmond      SLA   152     3 Yelich       COO  .353      3 Stanton, G   AVC  .914      3 Molina, Y    SEG    11
+ 4 Pence, H     COM   152     4 Pujols       CO2  .352      4 Yelich       COO  .892      4 Trout        COO     9
+ 5 Carpenter, M AVC   150     5 Morse        FEJ  .348      5 Pujols       CO2  .891      5 Holliday     FEJ     9
+
+    At Bats                      Avg vs RHP                    OPS vs LHP                    Singles
+ 1 Gordon, D    SKR   641     1 Adams, M     COO  .328      1 Ramirez, A   SKR 1.148      1 Revere       SLA   163
+ 2 Kendrick, H  DOU   630     2 Eaton        AVC  .321      2 Morse        FEJ 1.040      2 Gordon, D    SKR   156
+ 3 Pujols       CO2   609     3 Duda         SEG  .319      3 Crawford, B  CO2  .986      3 Kendrick, H  DOU   143
+ 4 Gomez, C     DOU   606     4 Yelich       COO  .318      4 Yelich       COO  .956      4 Yelich       COO   129
+ 5 Utley, C     AVC   605     5 Heyward      SKR  .316      5 Pujols       CO2  .906      5 Utley, C     AVC   125
+
+    Plate Appearances            On Base vs LHP                OPS vs RHP                    Grounded Into DP
+ 1 Freeman, F   SKR   690     1 Smith, S     SEG  .455      1 Duda         SEG 1.070      1 Simmons, A   DOU    36
+ 2 Gordon, D    SKR   683     2 Ramirez, A   SKR  .452      2 Trout        COO  .964      2 Aybar        MOR    27
+ 3 Kendrick, H  DOU   672     3 Eaton        AVC  .424      3 Stanton, G   AVC  .956      3 Molina, Y    SEG    22
+ 4 Gomez, C     DOU   670     4 Yelich       COO  .424      4 Dickerson, C SKR  .904      4 Kendrick, H  DOU    21
+ 5 Carpenter, M AVC   662     5 Crawford, B  CO2  .414      5 Gomez, C     DOU  .888      5 Lucroy       COM    20
+
+    Sacrifice Hits               On Base vs RHP                Home Avg                      RISP Avg
+ 1 Teheran      DOU    12     1 Heyward      SKR  .400      1 Adams, M     COO  .342      1 Cuddyer, M   DOU  .452
+ 2 Lohse        COM    11     2 Yelich       COO  .394      2 Utley, C     AVC  .339      2 Panik        MOR  .439
+ 3 LeMahieu, D  FEJ    10     3 Duda         SEG  .394      3 Eaton        AVC  .338      3 Crawford, C  COM  .435
+ 4 Gonzalez, G  AVC    10     4 Eaton        AVC  .389      4 Kendrick, H  DOU  .330      4 Grandal, Y   MOR  .425
+ 5 Lynn         COM    10     5 Freeman, F   SKR  .386      5 Gomez, C     DOU  .330      5 Uribe        DOU  .420
+
+    Sacrifice Flies              Slugging vs LHP               Road Avg                      Pinch Avg
+ 1 Freeman, F   SKR    10     1 Ramirez, A   SKR  .696      1 Yelich       COO  .354      1 Panik        MOR  .444
+ 2 Pujols       CO2     9     2 Morse        FEJ  .652      2 McGehee      SLA  .323      2 Nieuwenhuis  AVC  .388
+ 3 Goldschmidt  COM     8     3 Crawford, B  CO2  .571      3 Eaton        AVC  .318      3 Morrison, L  AVC  .381
+ 4 Lucroy       COM     7     4 Pujols       CO2  .546      4 Gordon, D    SKR  .309      4 Sizemore, G  COO  .364
+ 5 Calhoun, K   MOR     7     5 Yelich       COO  .532      5 Hechavarria, COO  .308      5 Ynoa         DOU  .361
+
+    Intentional Walks            Slugging vs RHP               RC/27 Outs                    Bases Loaded Avg
+ 1 Stanton, G   AVC    33     1 Duda         SEG  .676      1 Trout        COO   7.8      1 Pujols       CO2  .313
+ 2 Dickerson, C SKR    11     2 Stanton, G   AVC  .589      2 Yelich       COO   7.8      2 Ramirez, A   SKR  .313
+ 3 Aybar        MOR     8     3 Trout        COO  .588      3 Duda         SEG   7.5      3 Freeman, F   SKR  .222
+ 4 Trout        COO     8     4 Pujols       CO2  .539      4 Stanton, G   AVC   7.2     
+ 5 Goldschmidt  COM     8     5 Dickerson, C SKR  .539      5 Pujols       CO2   7.1     
+
+
+   Pitching                     ERA  W  L   Pct   G CG SH SV    IP GS   H   R  ER HR  BB   K
+  1 Wainwright,Adam       COO  2.24 14  9  .609  30  3  3  0 209.1 30 172  54  52  7  49 182
+  2 Teheran,Julio         DOU  2.55 15  7  .682  29  2  0  0 208.1 29 152  61  59 18  45 154
+  3 Harang,Aaron          SEG  2.63 12  9  .571  31  0  0  0 191.2 31 182  60  56  7  63 156
+  4 De La Rosa,Jorge      CO2  2.93  8  9  .471  28  0  0  0 165.2 28 133  57  54 16  53 133
+  5 Collmenter,Josh       SLA  3.03  4 11  .267  37  3  1  0 169.1 23 151  59  57 18  30 119
+  6 Ross,Tyson            SEG  3.11  7 12  .368  31  0  0  0   197 31 174  76  68  8  64 197
+  7 Fister,Doug           CO2  3.13 12  7  .632  26  2  0  0 175.2 26 151  66  61 16  26 109
+  8 Peavy,Jake            DOU  3.24 15  7  .682  31  0  0  0   186 30 142  69  67 23  58 142
+  9 Roark,Tanner          COO  3.33 16  8  .667  28  1  1  0 183.2 28 170  74  68 11  44 106
+ 10 Hudson,Tim            COO  3.41  7 11  .389  25  1  0  0 166.1 25 174  65  63 13  23 107
+
+    Games                        Wins                          Shutouts                      Home Runs
+ 1 Estrada      FEJ     95    1 Roark        COO     16     1 Wainwright   COO      3     1 Colon, B     SKR     32
+ 2 Shaw, B      COO     78    2 Peavy        DOU     15     2 Kershaw      AVC      3     2 Bumgarner, M MOR     30
+ 3 Clippard     DOU     76    3 Teheran      DOU     15     3 Roark        COO      1     3 Weaver       FEJ     27
+ 4 Jepsen, K    MOR     76    4 Bumgarner, M MOR     15     4 Gonzalez, G  AVC      1     4 Zimmermann   SKR     26
+ 5 Maness, S    DOU     73    5 Wainwright   COO     14     5 Collmenter   SLA      1     5 Miller, S    FEJ     25
+
+    Innings Pitched              Losses                        Strikeouts                    Opponent Avg
+ 1 Bumgarner, M MOR  212.2    1 Miller, S    FEJ     18     1 Zimmermann   SKR    211     1 Teheran      DOU   .204
+ 2 Zimmermann   SKR  212.1    2 Wood, A      COM     15     2 Bumgarner, M MOR    208     2 Peavy        DOU   .210
+ 3 Wainwright   COO  209.1    3 Gallardo     SLA     15     3 Ross, T      SEG    197     3 De La Rosa,  CO2   .216
+ 4 Teheran      DOU  208.1    4 Alvarez, H   SKR     14     4 Wainwright   COO    182     4 Wainwright   COO   .223
+ 5 Alvarez, H   SKR  203.1    5 Koehler, T   FEJ     13     5 Lynn         COM    175     5 deGrom       CO2   .228
+
+    Complete Games               Saves                         Walks                         Hits
+ 1 Colon, B     SKR      4    1 Papelbon, J  DOU     42     1 Miller, S    FEJ     72     1 Buehrle, M   SEG    267
+ 2 Kershaw      AVC      4    2 Casilla, S   COO     39     2 Lynn         COM     67     2 Alvarez, H   SKR    243
+ 3 Wainwright   COO      3    3 Street       SEG     38     3 Koehler, T   FEJ     65     3 Bumgarner, M MOR    226
+ 4 Petit, Y     AVC      3    4 Soriano, R   SKR     33     4 Ross, T      SEG     64     4 Zimmermann   SKR    209
+ 5 Collmenter   SLA      3    5 Qualls, C    MOR     29     5 Harang       SEG     63     5 Colon, B     SKR    208
+
+    WHIP                         Runs                          Batters Faced                 Avg vs LHB
+ 1 Teheran      DOU   .946    1 Buehrle, M   SEG    110     1 Bumgarner, M MOR    894     1 De La Rosa,  CO2   .176
+ 2 Fister       CO2  1.008    2 Bumgarner, M MOR    103     2 Alvarez, H   SKR    878     2 Teheran      DOU   .203
+ 3 Wainwright   COO  1.056    3 Colon, B     SKR    103     3 Zimmermann   SKR    870     3 Fister       CO2   .218
+ 4 Collmenter   SLA  1.069    4 Weaver       FEJ    102     4 Wainwright   COO    842     4 Gallardo     SLA   .220
+ 5 Peavy        DOU  1.075    5 Gallardo     SLA    100     5 Buehrle, M   SEG    840     5 Peavy        DOU   .223
+
+    Doubles                      Earned Runs                   Holds                         Avg vs RHB
+ 1 Buehrle, M   SEG     69    1 Buehrle, M   SEG    104     1 Clippard     DOU     27     1 Peavy        DOU   .194
+ 2 Haren        SKR     49    2 Bumgarner, M MOR     95     2 Ramos, A     MOR     26     2 Wainwright   COO   .195
+ 3 Bumgarner, M MOR     47    3 Colon, B     SKR     95     3 Walden       SKR     25     3 Collmenter   SLA   .202
+ 4 Lynn         COM     43    4 Miller, S    FEJ     94     4 Storen       COO     23     4 Teheran      DOU   .205
+ 5 Roark        COO     42    5 Haren        SKR     94     5 Carpenter    COM     19     5 Roark        COO   .218
+
+    Triples                      Strikeouts/9 IP               Save Opp                      K/W Ratio
+ 1 Gonzalez, G  AVC     14    1 Santana, E   MOR    9.2     1 Papelbon, J  DOU     45     1 Zimmermann   SKR    6.6
+ 2 Fister       CO2     10    2 Kennedy, I   SLA    9.1     2 Casilla, S   COO     43     2 Bumgarner, M MOR    5.8
+ 3 Niese        SEG     10    3 Wheeler, Z   COO    9.0     3 Street       SEG     41     3 Hudson, T    COO    4.7
+ 4 Lohse        COM      9    4 Ross, T      SEG    9.0     4 Soriano, R   SKR     38     4 Colon, B     SKR    4.4
+ 5 Martinez, C  CO2      7    5 Zimmermann   SKR    8.9     5 Qualls, C    MOR     34     5 Haren        SKR    4.2
+
+    Hit By Pitch                 Opponent On Base%             Blown Saves                   SB Allowed
+ 1 Wheeler, Z   COO     11    1 Teheran      DOU   .250     1 Maness, S    DOU      7     1 Lynn         COM     25
+ 2 Wainwright   COO     10    2 Fister       CO2   .264     2 Storen       COO      6     2 Zimmermann   SKR     19
+ 3 Alvarez, H   SKR      9    3 Collmenter   SLA   .272     3 Thayer, D    CO2      6     3 Santana, E   MOR     19
+ 4 Vargas, J    MOR      9    4 Wainwright   COO   .277     4 Soriano, R   SKR      5     4 Kennedy, I   SLA     19
+ 5 Peavy        DOU      8    5 Peavy        DOU   .279     5 Clippard     DOU      5     5 Wainwright   COO     18
+
+    Quality Starts               Opponent Slugging%            Save%                         SB% Allowed
+ 1 Wainwright   COO     24    1 Wainwright   COO   .298     1 Papelbon, J  DOU   93.3     1 Harang       SEG   47.8
+ 2 Teheran      DOU     23    2 Ross, T      SEG   .309     2 Street       SEG   92.7     2 Cosart       DOU   50.0
+ 3 Ross, T      SEG     23    3 Teheran      DOU   .324     3 Casilla, S   COO   90.7     3 Ross, T      SEG   50.0
+ 4 Zimmermann   SKR     22    4 Harang       SEG   .328     4 Soriano, R   SKR   86.8     4 Gallardo     SLA   53.8
+ 5 De La Rosa,  CO2     20    5 Wheeler, Z   COO   .331     5 Qualls, C    MOR   85.3     5 Weaver       FEJ   61.9
+
+    Wild Pitches                 Opponent OPS                  GIDP Induced                  Balks
+ 1 Ross, T      SEG     11    1 Teheran      DOU   .574     1 Alvarez, H   SKR     27     1 Hatcher      COM      5
+ 2 Harang       SEG     10    2 Wainwright   COO   .575     2 Buehrle, M   SEG     23     2 Perez, O     SLA      3
+ 3 Santana, E   MOR      9    3 Fister       CO2   .608     3 Koehler, T   FEJ     23     3 Santiago, H  COO      3
+ 4 Gallardo     SLA      9    4 Ross, T      SEG   .612     4 Hudson, T    COO     22     4 De La Rosa,  CO2      2
+ 5 Morris, B    SKR      9    5 De La Rosa,  CO2   .634     5 Gallardo     SLA     21     5 Morris, B    SKR      2
+
+
+_________________________________________________________________________________________________________

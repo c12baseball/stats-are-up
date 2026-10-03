@@ -1,0 +1,63 @@
+LEAGUE STANDINGS FOR 2010 Classic 12
+
+North                       WON LOST  PCT   GB  MAGIC#
+2010 Morgen Grinders MOR     96  56  .632 ----  *WON* 
+2010 Skramalonians SKR       79  73  .520 17.0        
+2010 Dou's Crew DOU          77  75  .507 19.0        
+2010 Avery Tards AVC         71  81  .467 25.0        
+
+South                       WON LOST  PCT   GB  MAGIC#
+2010 Co Operators COO        97  55  .638 ----  *WON* 
+2010 Tresspassers TRE        76  76  .500 21.0        
+2010 Rivercrypts SEG         56  96  .368 41.0        
+2010 B-Rads CO2              56  96  .368 41.0        
+
+
+
+       OVERALL RECORD
+Team   WON LOST   PCT  HOME  ROAD  LEFT RIGHT EXTRA 1-RUN   LAST 10   STREAK
+AVC     71   81  .467 35-41 36-40 24-22 47-59 10- 5 20-23     8-2     Won 4
+CO2     56   96  .368 25-51 31-45 19-33 37-63  1-11 13-30     3-7     Lost 2
+COO     97   55  .638 52-24 45-31 33-19 64-36  9- 9 25-20     3-7     Lost 4
+DOU     77   75  .507 41-35 36-40 31-22 46-53  8- 7 29-18     6-4     Lost 1
+MOR     96   56  .632 52-24 44-32 31-13 65-43 10- 6 26-17     7-3     Won 1
+SEG     56   96  .368 29-47 27-49 21-30 35-66  9- 7 22-26     4-6     Won 1
+SKR     79   73  .520 35-41 44-32 34-33 45-40  8- 9 22-19     5-5     Won 2
+TRE     76   76  .500 35-41 41-35 25-22 51-54  6- 7 23-27     4-6     Lost 1
+TOTAL  608  608  .500
+
+TEAM   -APRIL   MAY  JUNE  JULY   AUG SEPT+   InDiv OutDiv
+AVC      0- 0 13- 9 10-20 19-12 11-20 18-20   34-38  37-43
+CO2      0- 0  9-13 16-14 12-19 11-20  8-30   29-43  27-53
+COO      0- 0 12-10 21- 9 21-10 19-12 24-14   51-21  46-34
+DOU      0- 0  9-13 15-15 16-15 15-16 22-16   32-40  45-35
+MOR      0- 0 10-12 20-10 17-14 19-12 30- 8   43-29  53-27
+SEG      0- 0 12-10  9-21 12-19 12-19 11-27   25-47  31-49
+SKR      0- 0 12-10 10-20 15-16 18-13 24-14   35-37  44-36
+TRE      0- 0 11-11 19-11 12-19 19-12 15-23   39-33  37-43
+
+
+WINS ARE ACROSS, LOSSES ARE DOWN:
+
+TEAM AVC CO2 COO DOU MOR SEG SKR TRE
+AVC    -  11   6  12   9  10  13  10
+CO2    9   -   4   7   3  14   8  11
+COO   14  20   -  11  11  15  10  16
+DOU   12  13   9   -   9  11  11  12
+MOR   15  17   9  15   -  13  13  14
+SEG   10  10   9   9   7   -   5   6
+SKR   11  12  10  13  11  15   -   7
+TRE   10  13   8   8   6  18  13   -
+
+
+RUNS SCORED ARE ACROSS, RUNS ALLOWED ARE DOWN:
+
+TEAM AVC CO2 COO DOU MOR SEG SKR TRE
+AVC    -  92  99 130 102 110 115  92
+CO2   93   -  86  88  67 109  86  87
+COO  113 128   - 101  80 128  87 121
+DOU  113 110  81   -  93 100 122  95
+MOR  126 142  90 124   -  97  77  76
+SEG   82 103 102  94  70   -  79  78
+SKR  125 107  61 135  87 126   -  69
+TRE  110  92  77  90  73 128 107   -

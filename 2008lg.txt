@@ -1,0 +1,51 @@
+LEAGUE STANDINGS FOR 2008 Classic 12
+
+                            WON LOST  PCT   GB  MAGIC#
+2008 Co Operators COO        89  61  .593 ----  *WON* 
+2008 Skramalonians SKR       79  71  .527 10.0        
+2008 B-Rads CO2              73  77  .487 16.0        
+2008 Rivercrypts SEG         71  79  .473 18.0        
+2008 Dou's Crew DOU          71  79  .473 18.0        
+2008 Tresspassers TRE        67  83  .447 22.0        
+
+
+
+       OVERALL RECORD
+Team   WON LOST   PCT  HOME  ROAD  LEFT RIGHT EXTRA 1-RUN   LAST 10   STREAK
+CO2     73   77  .487 40-35 33-42 22-20 51-57  6- 4 28-29     6-4     Lost 1
+COO     89   61  .593 43-32 46-29 27-13 61-48  8- 9 22-20     5-5     Won 1
+DOU     71   79  .473 39-36 32-43 18-27 49-52  4- 5 20-19     6-4     Won 4
+SEG     71   79  .473 38-37 33-42 19-17 52-57  5- 6 23-22     3-7     Lost 4
+SKR     79   71  .527 39-36 40-35 19-26 60-45  5- 6 19-20     6-4     Won 1
+TRE     67   83  .447 36-39 31-44 27-23 40-60  5- 3 18-20     4-6     Lost 1
+TOTAL  450  450  .500
+
+TEAM   -APRIL   MAY  JUNE  JULY   AUG SEPT+
+CO2      0- 0 16-14 12-18 16-15 14-17 15-13 
+COO      0- 0 20-10 18-12 16-14 17-13 18-12 
+DOU      0- 0 10-20 15-15 19-12 16-15 11-17 
+SEG      0- 0 15-15 11-19 14-16 18-12 13-17 
+SKR      0- 0 17-13 20-10 11-20 14-17 17-11 
+TRE      0- 0 12-18 14-16 16-15 13-18 12-16 
+
+
+WINS ARE ACROSS, LOSSES ARE DOWN:
+
+TEAM CO2 COO DOU SEG SKR TRE
+CO2    -  12  15  13  17  16
+COO   18   -  23  17  15  16
+DOU   15   7   -  18  15  16
+SEG   17  13  12   -  12  17
+SKR   13  15  15  18   -  18
+TRE   14  14  14  13  12   -
+
+
+RUNS SCORED ARE ACROSS, RUNS ALLOWED ARE DOWN:
+
+TEAM CO2 COO DOU SEG SKR TRE
+CO2    - 134 148 114 164 152
+COO  161   - 184 128 131 145
+DOU  176 122   - 146 138 135
+SEG  111 100 105   -  85 124
+SKR  151 142 160 110   - 121
+TRE  161 137 119 110 122   -

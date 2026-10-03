@@ -1,0 +1,83 @@
+LEAGUE STANDINGS FOR 1995 The Classic 10
+
+GOLDEN STA                  WON LOST  PCT   GB  MAGIC#
+1995 Dave's Duxz AVD         82  70  .539 ----  *WON* 
+1995 Avery Tards AVC         80  72  .526  2.0        
+1995 Evenson Odd Dau EVE     74  78  .487  8.0        
+1995 Hocking Kongs HOC       65  87  .428 17.0        
+1995 Slattery Incarn SLA     63  89  .414 19.0        
+1995 Rivercrypts SEG         62  90  .408 20.0        
+
+SOUTH BAY                   WON LOST  PCT   GB  MAGIC#
+1995 Russell M'Ups FER       98  54  .645 ----  *WON* 
+1995 Morgen Grinders MOR     93  59  .612  5.0        
+1995 Skramalonians SKR       79  73  .520 19.0        
+1995 Co Operators COO        77  75  .507 21.0        
+1995 Dou's Crew DOU          71  81  .467 27.0        
+1995 Johnny Be Goods FEJ     68  84  .447 30.0        
+
+
+
+       OVERALL RECORD
+Team   WON LOST   PCT  HOME  ROAD  LEFT RIGHT EXTRA 1-RUN   LAST 10   STREAK
+AVC     80   72  .526 44-32 36-40 28-20 53-56 11- 6 30-21     5-5     Lost 2
+AVD     82   70  .539 45-31 37-39 23-23 57-47 10- 5 28-17     8-2     Lost 1
+COO     77   75  .507 37-39 40-36 29-24 52-58  7-10 19-29     4-6     Lost 4
+DOU     71   81  .467 33-43 38-38 22-25 49-57  6-10 22-29     4-6     Lost 1
+EVE     74   78  .487 35-41 39-37 23-30 51-48  6- 8 20-20     3-7     Lost 2
+FEJ     68   84  .447 36-40 32-44 15-32 53-52  9- 6 19-18     5-5     Won 3
+FER     98   54  .645 53-23 45-31 32-15 72-45 11- 8 29-18     5-5     Won 1
+HOC     65   87  .428 34-42 31-45 22-29 43-59  2-10 16-28     5-5     Lost 2
+MOR     93   59  .612 45-31 48-28 27-16 70-47  9- 5 30-19     4-6     Won 1
+SEG     62   90  .408 33-43 29-47 21-26 42-64  2-11 17-26     6-4     Won 2
+SKR     79   73  .520 39-37 40-38 24-23 61-55 11- 4 29-22     5-5     Lost 3
+SLA     63   89  .414 33-43 30-46 25-29 38-60  6- 7 18-30     7-3     Won 3
+TOTAL  912  912  .500
+
+TEAM   -APRIL   MAY  JUNE  JULY   AUG SEPT+   InDiv OutDiv
+AVC      0- 1  0- 0  0- 0  0- 0  0- 0  0- 0    0- 0   0- 1
+AVD      0- 1  0- 0  0- 0  0- 0  0- 0  0- 0    0- 1   0- 0
+COO      1- 0  0- 0  0- 0  0- 0  0- 0  0- 0    1- 0   0- 0
+DOU      0- 2  0- 0  0- 0  0- 0  0- 0  0- 0    0- 0   0- 2
+EVE      1- 0  0- 0  0- 0  0- 0  0- 0  0- 0    1- 0   0- 0
+FEJ      0- 1  0- 0  0- 0  0- 0  0- 0  0- 0    0- 1   0- 0
+FER      0- 1  0- 0  0- 0  0- 0  0- 0  0- 0    0- 0   0- 1
+HOC      1- 1  0- 0  0- 0  0- 0  0- 0  0- 0    0- 0   1- 1
+MOR      1- 1  0- 0  0- 0  0- 0  0- 0  0- 0    0- 0   1- 1
+SEG      2- 0  0- 0  0- 0  0- 0  0- 0  0- 0    0- 0   2- 0
+SKR      1- 0  0- 0  0- 0  0- 0  0- 0  0- 0    0- 0   1- 0
+SLA      1- 0  0- 0  0- 0  0- 0  0- 0  0- 0    0- 0   1- 0
+
+
+WINS ARE ACROSS, LOSSES ARE DOWN:
+
+TEAM AVC AVD COO DOU EVE FEJ FER HOC MOR SEG SKR SLA
+AVC    -  10   4   6  11   5   5   8   8   9   6   8
+AVD    6   -   7   9   9   9   6   8   5   6   9   8
+COO    8   5   -   8   5   6   7   9   7   7   8   7
+DOU    6   3   8   -   5  11   6   8   7   4   6   7
+EVE    5   7   7   7   -   7   4   6   5  13   4   9
+FEJ    7   3  10   5   5   -   2   8   3   9   9   7
+FER    7   6   9  10   8  14   -   9   7   7  12   9
+HOC    8   8   3   4  10   4   3   -   5  10   0  10
+MOR    4   7   9   9   7  13   9   7   -   9  12   7
+SEG    7  10   5   8   3   3   5   6   3   -   3   9
+SKR    6   3   8  10   8   7   4  12   4   9   -   8
+SLA    8   8   5   5   7   5   3   6   5   7   4   -
+
+
+RUNS SCORED ARE ACROSS, RUNS ALLOWED ARE DOWN:
+
+TEAM AVC AVD COO DOU EVE FEJ FER HOC MOR SEG SKR SLA
+AVC    -   0   0   0   0   0   0   0   0   0   2   0
+AVD    0   -   0   0   0   0   0   0   0   0   0   0
+COO    0   0   -   0   0   5   0   0   0   0   0   0
+DOU    0   0   0   -   0   0   0   0   0   5   0   0
+EVE    0   2   0   0   -   0   0   0   0   0   0   0
+FEJ    0   0   4   0   0   -   0   0   0   0   0   0
+FER    0   0   0   0   0   0   -   0   0   0   0   2
+HOC    0   0   0   0   0   0   0   -   8   0   0   0
+MOR    0   0   0   0   0   0   0   7   -   0   0   0
+SEG    0   0   0  11   0   0   0   0   0   -   0   0
+SKR    5   0   0   0   0   0   0   0   0   0   -   0
+SLA    0   0   0   0   0   0   6   0   0   0   0   -
