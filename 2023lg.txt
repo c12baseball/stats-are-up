@@ -1,0 +1,216 @@
+2023 Classic 12 Replay Standings - Final
+
+
+                     W    L    Pct    GB    E#   L10  Stk Runs  Opp  Diff   Home    Road     Div     vsL     vsR    1Run      EI
+x-Coop d'etat      106   56   .654     -     -   6-4   L2  716  541   175   60-21   46-35  106-56   35-15   71-41   37-22   10-9
+y-Morgen Grinders  102   60   .630   4.0     E   5-5   W3  684  530   154   58-23   44-37  102-60   34-17   68-43   26-20    9-8
+y-Skramalonians     93   69   .574  13.0     E   7-3   W2  800  656   144   51-30   42-39   93-69   26-23   67-46   25-27   12-12
+y-Dou's Crew        89   73   .549  17.0     E   5-5   L1  648  580    68   42-39   47-34   89-73   22-22   67-51   33-31    9-11
+y-Rivercrypts       83   80   .509  23.5     E   8-2   W8  739  681    58   43-38   40-42   83-80   26-28   57-52   26-26   13-10
+  Fentonators       82   81   .503  24.5     E   2-8   L4  594  610   -16   49-33   33-48   82-81   25-22   57-59   34-22   14-7
+  Incarnations      68   94   .420  38.0     E   4-6   L1  608  713  -105   31-50   37-44   68-94   26-33   42-61   22-24    4-10
+  B-Rads            68   94   .420  38.0     E   4-6   L4  635  755  -120   38-43   30-51   68-94   26-30   42-64   23-30    8-5
+  Co Operators      63   99   .389  43.0     E   3-7   W1  601  748  -147   32-49   31-50   63-99   21-29   42-69   19-28    7-11
+  Avery Deemers     57  105   .352  49.0     E   4-6   W1  686  895  -209   29-52   28-53   57-105  17-32   40-73   14-28    5-8
+
+____________________________________________________________________________________________________________________________________________
+
+Batting                 G   AB    H  2B  3B  HR Runs  RBI   BB    K HBP  SH  SF  SB  CS   SB%  Slams   DP  Avg   OB  Slg  OPS
+Skramalonians         162 5677 1405 305  17 213  800  788  536 1526  68   6  49 110  34  76.4      6   94 .247 .317 .420 .737
+Morgen Grinders       162 5493 1333 264  31 173  684  662  505 1468  86  17  40  87  40  68.5      4  101 .243 .314 .397 .711
+Rivercrypts           163 5604 1356 337  28 154  739  716  540 1269  67  19  39  67  30  69.1      4  130 .242 .314 .395 .709
+Avery Deemers         162 5566 1336 286  36 173  686  660  443 1415  73   7  37  52  19  73.2      1  127 .240 .303 .398 .700
+Dou's Crew            162 5513 1280 273  20 151  648  625  519 1345  60  10  47 120  40  75.0      3   97 .232 .303 .371 .674
+Fentonators           163 5541 1286 267  17 179  594  575  414 1463  42   0  28  93  28  76.9      2  119 .232 .289 .383 .672
+Coop d'etat           162 5506 1274 316  19 260  716  695  417 1413  57   3  39 108  35  75.5      5   99 .231 .290 .437 .728
+B-Rads                162 5418 1232 259  22 139  635  610  523 1521  70   4  49  46  25  64.8      5  107 .227 .301 .360 .661
+Co Operators          162 5507 1231 317  23 174  601  581  428 1495  62  13  34  94  30  75.8      3   93 .224 .285 .384 .670
+Incarnations          162 5519 1233 273  22 123  608  581  417 1355  73  26  34  96  17  85.0      2  124 .223 .285 .348 .633
+
+Average               162 5534 1297 290  24 174  671  649  474 1427  66  11  40  87  30  74.6      4  109 .234 .300 .389 .689
+____________________________________________________________________________________________________________________________________________
+
+Pitching                G  CG   IP   BF    H    R   ER  HR   BB  IBB    K HBP  WP  BK  SH  SV   BS  Avg   OB  SlgRA-SPRA-RP      ERA
+Morgen Grinders       162   3 1468 5894 1135  530  499 153  377    7 1532  61  54   4  16  60   20 .210 .268 .346 3.16 2.87     3.06
+Coop d'etat           162   1 1479 6028 1127  541  514 131  472   22 1482  74  48   1  17  64   13 .208 .278 .337 3.32 2.81     3.13
+Dou's Crew            162   0 1475 6053 1193  580  534 161  468   15 1471  64  49   6  11  54   20 .219 .286 .350 3.53 2.83     3.26
+Fentonators           163   2 1469 6127 1238  610  559 150  496   23 1490  68  41   2  14  48    4 .225 .296 .363 3.67 2.98     3.42
+Skramalonians         162   1 1484 6204 1338  656  606 171  436   22 1304  52  36   1  11  52   11 .237 .296 .381 3.72 3.60     3.68
+Rivercrypts           163   1 1475 6195 1344  681  646 218  453   31 1390  82  31   2   7  42   16 .240 .305 .428 3.83 4.13     3.94
+Incarnations          162  10 1471 6201 1407  713  657 164  444   28 1478  47  26   8  11  40   12 .249 .307 .408 4.09 3.89     4.02
+Co Operators          162   1 1457 6192 1307  748  687 203  542   22 1343  77  36   2   9  38    6 .237 .312 .408 4.20 4.32     4.24
+B-Rads                162   0 1432 6137 1381  755  698 175  469   25 1470  78  45   1   8  40    9 .250 .315 .413 4.71 3.79     4.38
+Avery Deemers         162   0 1440 6347 1496  895  843 213  585   21 1310  55  44   2   7  33    9 .265 .338 .455 5.47 4.94     5.27
+
+Average               162   2 1465 6138 1297  671  624 174  474   22 1427  66  41   3  11  47   12 .234 .300 .389 3.96 3.61     3.83
+____________________________________________________________________________________________________________________________________________
+
+Fielding                G   PO  Ast  OfA    E   TC   DP   TP  Great Poor   PB  SB  CS   SB%  Pct
+Rivercrypts           163 4425 1337   21   59 5821  122    0    174  128    9  99  29  77.3 .990
+Morgen Grinders       162 4404 1401   14   63 5868  110    0    185   82    0  12   6  66.7 .989
+Dou's Crew            162 4425 1538   29   77 6040  127    0    140   99   14  76  25  75.2 .987
+Coop d'etat           162 4437 1463   18   86 5986  110    0    177   85    6  79  32  71.2 .986
+Co Operators          162 4369 1501   29   91 5961  130    0    170  126   16  55  26  67.9 .985
+Fentonators           163 4406 1399   23   88 5893  121    0    148  110    4  77  23  77.0 .985
+Avery Deemers         162 4316 1502   25   86 5904  125    0    162  161    7 108  36  75.0 .985
+Incarnations          162 4411 1470   20   93 5974  118    0    162  137    6 112  42  72.7 .984
+Skramalonians         162 4451 1512   14   94 6057  121    0    179  124    6 101  33  75.4 .984
+B-Rads                162 4298 1322   13  102 5722  112    0    182  133   16 154  46  77.0 .982
+
+Average               162 4394 1445   21   84 5923  120    0    168  119    8  87  30  74.6 .986
+____________________________________________________________________________________________________________________________________________
+    Action! PC Leader Boards
+
+    Batting                      Avg   G  AB   R   H  2B 3B HR  TB RBI  BB   K HB  SB CS
+  1 Freeman,Freddie*       DOU  .312 162 621  93 194  56  3 19 313  82  82  91  5  15  3
+  2 Machado,Manny          SEG  .288 155 635 101 183  56  2 28 327  94  54 163  0   9  4
+  3 McNeil,Jeff*           SKR  .288 146 611  83 176  53  1  4 243  59  51  87 11   5  2
+  4 Ohtani,Shohei*         MOR  .276 158 623 108 172  40 10 29 319  79  64 171  5  14  7
+  5 Wong,Kolten*           SKR  .274 129 445  70 122  28  4  9 185  53  48 107 11  20  8
+  6 Trout,Mike             SKR  .274 140 464  77 127  31  0 34 260  94  63 164  6   1  0
+  7 Ward,Taylor            MOR  .270 154 582  85 157  29  0 19 243  79  71 147  6   8  2
+  8 Riley,Austin           MOR  .268 162 620  89 166  37  2 31 300 114  58 193 19   2  1
+  9 Smith,Will             AVC  .260 152 596  76 155  27  2 22 252  82  48 132 10   1  1
+ 10 Lindor,Francisco       SKR  .257 162 696 112 179  27  5 37 327 109  49 161 11  14  6
+
+   Home Runs                    Runs                          Runs Batted In                Stolen Bases
+ 1 Alonso       COM    43     1 Lindor       SKR   112      1 Riley        MOR   114      1 Berti        SLA    42
+ 2 Lindor       SKR    37     2 Ohtani, S    MOR   108      2 Lindor       SKR   109      2 Acuna Jr.    COO    37
+ 3 Olson, M     COO    35     3 Alonso       COM   102      3 Walker, C    SKR    98      3 Edman        FEJ    32
+ 4 Trout        SKR    34     4 Machado, M   SEG   101      4 Alonso       COM    96      4 Turner, T    DOU    30
+ 5 Schwarber    COM    32     5 Soto, J      SEG    96      5 Turner, T    DOU    95      5 Hoerner      COM    29
+
+   Triples                      Walks                         Hits                          On Base%
+ 1 Ohtani, S    MOR    10     1 Soto, J      SEG   121      1 Freeman, F   DOU   194      1 Freeman, F   DOU  .393
+ 2 Cronenworth, SEG     9     2 Freeman, F   DOU    82      2 Machado, M   SEG   183      2 Trout        SKR  .366
+ 3 Guillorme, L AVC     7     3 Profar       SEG    79      3 Lindor       SKR   179      3 Wong         SKR  .356
+ 4 Peralta      MOR     6     4 Bell, J      CO2    76      4 Turner, T    DOU   177      4 Soto, J      SEG  .354
+ 5 Lux          CO2     6     5 Muncy        CO2    75      5 McNeil, J    SKR   176      5 Ward, T      MOR  .353
+
+   Doubles                      Strikeouts                    Total Bases                   Slugging%
+ 1 Olson, M     COO    57     1 Riley        MOR   193      1 Machado, M   SEG   327      1 Trout        SKR  .560
+ 2 Machado, M   SEG    56     2 Swanson, D   FEJ   193      2 Lindor       SKR   327      2 Machado, M   SEG  .515
+ 3 Freeman, F   DOU    56     3 Grisham, T   MOR   191      3 Ohtani, S    MOR   319      3 Alonso       COM  .515
+ 4 McNeil, J    SKR    53     4 Olson, M     COO   190      4 Freeman, F   DOU   313      4 Ohtani, S    MOR  .512
+ 5 Betts        SLA    45     5 Hoskins      FEJ   174      5 Alonso       COM   311      5 Freeman, F   DOU  .504
+
+   Games                        Avg vs LHP                    OPS                           Multi-Hit Games
+ 1 Soto, J      SEG   163     1 Riley        MOR  .307      1 Trout        SKR  .926      1 Lindor       SKR    55
+ 2 Profar       SEG   163     2 Trout        SKR  .287      2 Freeman, F   DOU  .897      2 Machado, M   SEG    54
+ 3 Cronenworth, SEG   163     3 Swanson, D   FEJ  .287      3 Ohtani, S    MOR  .859      3 Freeman, F   DOU    52
+ 4 Swanson, D   FEJ   163     4 Hoskins      FEJ  .282      4 Machado, M   SEG  .857      4 Ohtani, S    MOR    52
+ 5 Freeman, F   DOU   162     5 Freeman, F   DOU  .276      5 Alonso       COM  .844      5 Riley        MOR    50
+
+   At Bats                      Avg vs RHP                    OPS vs LHP                    RISP Avg
+ 1 Lindor       SKR   696     1 Freeman, F   DOU  .325      1 Trout        SKR 1.037      1 Fortes       COM  .366
+ 2 Turner, T    DOU   690     2 Wong         SKR  .305      2 Riley        MOR  .902      2 Bryant, K    SLA  .353
+ 3 Swanson, D   FEJ   683     3 McNeil, J    SKR  .304      3 Hoskins      FEJ  .886      3 Longoria, E  AVC  .341
+ 4 Cronenworth, SEG   654     4 Machado, M   SEG  .297      4 Alonso       COM  .845      4 Contreras, W SKR  .337
+ 5 Machado, M   SEG   635     5 Ohtani, S    MOR  .296      5 Betts        SLA  .837      5 Turner, T    DOU  .335
+
+   Plate Appearances            On Base vs LHP                OPS vs RHP                    Pinch Avg
+ 1 Lindor       SKR   763     1 Trout        SKR  .417      1 Ohtani, S    MOR  .939      1 Hernandez, Y SLA  .353
+ 2 Cronenworth, SEG   736     2 Hoskins      FEJ  .377      2 Freeman, F   DOU  .926      2 Ozuna        FEJ  .353
+ 3 Swanson, D   FEJ   726     3 Riley        MOR  .367      3 Machado, M   SEG  .907      3 Yepez        MOR  .333
+ 4 Turner, T    DOU   722     4 Freeman, F   DOU  .360      4 Trout        SKR  .870      4 Bryant, K    SLA  .333
+ 5 Freeman, F   DOU   715     5 Betts        SLA  .346      5 Wong         SKR  .847      5 Trout        SKR  .321
+
+   Intentional Walks            On Base vs RHP                RC/27 Outs                    Bases Loaded Avg
+ 1 Alonso       COM    25     1 Freeman, F   DOU  .405      1 Trout        SKR   7.3      1 Turner, T    DOU  .400
+ 2 Freeman, F   DOU    18     2 Wong         SKR  .374      2 Freeman, F   DOU   7.2      2 Trout        SKR  .353
+ 3 Ward, T      MOR     7     3 Ohtani, S    MOR  .373      3 Ohtani, S    MOR   6.1      3 Canha        CO2  .300
+ 4 Realmuto     MOR     7     4 Soto, J      SEG  .372      4 Machado, M   SEG   5.8      4 Riley        MOR  .200
+ 5 Contreras, W SKR     6     5 McNeil, J    SKR  .361      5 Riley        MOR   5.7      5 Realmuto     MOR  .200
+
+   Sacrifice Hits               Slugging vs LHP               Hit By Pitch                  Home Avg
+ 1 Robles       SEG    16     1 Trout        SKR  .620      1 Canha        CO2    20      1 Freeman, F   DOU  .325
+ 2 Grisham, T   MOR    15     2 Riley        MOR  .535      2 Riley        MOR    19      2 Riley        MOR  .325
+ 3 Nido         SLA    15     3 Hoskins      FEJ  .508      3 Cooper, G    SEG    13      3 Wong         SKR  .312
+ 4 Perdomo, G   COO     9     4 Alonso       COM  .503      4 Realmuto     MOR    13      4 Machado, M   SEG  .306
+ 5 Hampson      AVC     4     5 Betts        SLA  .490      5 Cronenworth, SEG    12      5 Ohtani, S    MOR  .304
+
+   Sacrifice Flies              Slugging vs RHP               Grounded Into DP              Road Avg
+ 1 Walker, C    SKR    16     1 Ohtani, S    MOR  .566      1 Bell, J      CO2    24      1 Freeman, F   DOU  .299
+ 2 Riley        MOR     9     2 Machado, M   SEG  .554      2 Iglesias, J  SEG    23      2 McNeil, J    SKR  .290
+ 3 Lindor       SKR     7     3 Trout        SKR  .532      3 Rodgers      COM    21      3 Ward, T      MOR  .279
+ 4 Soto, J      SEG     7     4 Freeman, F   DOU  .522      4 Walker, C    SKR    20      4 Machado, M   SEG  .272
+ 5 Bell, J      CO2     7     5 Alonso       COM  .520      5 Profar       SEG    19      5 Trout        SKR  .271
+
+
+   Pitching                     ERA  W  L   G CG SH SV    IP GS   H   R  ER HR  BB   K
+  1 Alcantara,Sandy       SLA  2.62 11  9  34  8  2  0 243.2 34 187  83  71 17  55 221
+  2 Nola,Aaron            MOR  2.65 16  5  34  3  0  0 217.2 34 172  68  64 20  22 250
+  3 Wheeler,Zack          COM  2.68 18  5  34  0  0  0   205 34 161  64  61 16  46 218
+  4 Darvish,Yu            FEJ  2.88 12 14  34  2  1  0 228.1 34 164  77  73 29  42 230
+  5 Ohtani,Shohei         MOR  3.01 12  9  35  0  0  0 188.2 35 152  69  63 16  55 246
+  6 Webb,Logan            MOR  3.06 17  6  33  0  0  0   197 33 165  70  67 13  61 164
+  7 Urias,Julio           DOU  3.08 12  8  31  0  0  0   178 31 115  66  61 26  47 176
+  8 Gallen,Zac            COM  3.13 17  6  34  1  1  0 204.1 34 139  76  71 22  60 214
+  9 Wright,Kyle           COO  3.22 11 11  31  1  0  0 184.1 31 147  70  66 25  60 184
+ 10 Montgomery,Jordan     COO  3.29 11 11  32  0  0  0 194.1 32 169  82  71 27  39 173
+
+   Games                        Wins                          Shutouts                      Home Runs
+ 1 Minter       FEJ     73    1 Wheeler      COM     18     1 Alcantara, S SLA      2     1 Morton, C    CO2     38
+ 2 Bass         DOU     73    2 Gallen       COM     17     2 Darvish      FEJ      1     2 Musgrove, J  SEG     33
+ 3 Finnegan     SKR     71    3 Webb, L      MOR     17     3 Gallen       COM      1     3 Smyly, D     SEG     31
+ 4 Boxberger    SLA     71    4 Nola, A      MOR     16     4 Scherzer     SLA      1     4 Davies, Z    AVC     31
+ 5 Neris        COM     70    5 Fried        SKR     14     5 Cueto        SEG      1     5 Freeland, K  AVC     29
+
+   Innings Pitched              Losses                        Strikeouts                    Opponent Avg
+ 1 Alcantara, S SLA  243.2    1 Carrasco     SLA     20     1 Nola, A      MOR    250     1 Gonsolin     SEG   .159
+ 2 Darvish      FEJ  228.1    2 Gausman      SLA     18     2 Morton, C    CO2    249     2 Urias        DOU   .182
+ 3 Nola, A      MOR  217.2    3 Wainwright   CO2     16     3 Ohtani, S    MOR    246     3 Gallen       COM   .187
+ 4 Musgrove, J  SEG  212.0    4 Freeland, K  AVC     16     4 Darvish      FEJ    230     4 Darvish      FEJ   .197
+ 5 Kelly, M     SKR  211.0    5 Morton, C    CO2     15     5 Gausman      SLA    225     5 Kershaw      DOU   .208
+
+   Complete Games               Saves                         Walks                         Hits
+ 1 Alcantara, S SLA      8    1 Bard, D      COM     47     1 Morton, C    CO2     76     1 Wainwright   CO2    235
+ 2 Nola, A      MOR      3    2 Robertson, D DOU     39     2 Marquez, G   AVC     74     2 Gausman      SLA    223
+ 3 Darvish      FEJ      2    3 Gallegos     SLA     27     3 Suarez, R    COO     70     3 Freeland, K  AVC    223
+ 4 Scherzer     SLA      2    4 Kimbrel      MOR     20     4 Kelly, M     SKR     69     4 Carrasco     SLA    210
+ 5 Gallen       COM      1    5 Hader        CO2     16     5 Freeland, K  AVC     66     5 Cueto        SEG    209
+
+   WHIP                         Runs                          Avg vs LHB                    Save Opp
+ 1 Nola, A      MOR   .891    1 Freeland, K  AVC    125     1 Gallen       COM   .156     1 Bard, D      COM     48
+ 2 Darvish      FEJ   .902    2 Wainwright   CO2    123     2 Alcantara, S SLA   .185     2 Robertson, D DOU     43
+ 3 Urias        DOU   .910    3 Carrasco     SLA    121     3 Darvish      FEJ   .186     3 Gallegos     SLA     31
+ 4 Gallen       COM   .974    4 Morton, C    CO2    115     4 Urias        DOU   .192     4 Kimbrel      MOR     24
+ 5 Alcantara, S SLA   .993    5 Gausman      SLA    112     5 Suarez, R    COO   .199     5 Martinez, N  SEG     20
+
+   Doubles                      Earned Runs                   Avg vs RHB                    Blown Saves
+ 1 Musgrove, J  SEG     65    1 Freeland, K  AVC    119     1 Urias        DOU   .179     1 Martinez, N  SEG      8
+ 2 Carrasco     SLA     61    2 Carrasco     SLA    115     2 Nola, A      MOR   .196     2 Finnegan     SKR      8
+ 3 Freeland, K  AVC     60    3 Wainwright   CO2    112     3 Ohtani, S    MOR   .204     3 McHugh       MOR      6
+ 4 Kelly, M     SKR     55    4 Morton, C    CO2    112     4 Darvish      FEJ   .209     4 Garcia, J    SKR      6
+ 5 Nola, A      MOR     52    5 Musgrove, J  SEG    105     5 Wright, K    COO   .215     5 Jansen, K    SEG      6
+
+   Triples                      Strikeouts/9 IP               Quality Starts                Holds
+ 1 Freeland, K  AVC      8    1 Morton, C    CO2   11.8     1 Darvish      FEJ     26     1 McHugh       MOR     32
+ 2 Gausman      SLA      6    2 Ohtani, S    MOR   11.7     2 Alcantara, S SLA     25     2 Bass         DOU     25
+ 3 Wheeler      COM      6    3 Gausman      SLA   10.7     3 Nola, A      MOR     24     3 Neris        COM     24
+ 4 Morton, C    CO2      6    4 Nola, A      MOR   10.3     4 Wheeler      COM     20     4 Finnegan     SKR     23
+ 5 Webb, L      MOR      5    5 Cobb         DOU    9.9     5 Fried        SKR     20     5 Minter       FEJ     22
+
+   Hit By Pitch                 Opponent On Base%             Batters Faced                 SB Allowed
+ 1 Gallen       COM     17    1 Nola, A      MOR   .241     1 Alcantara, S SLA    969     1 Morton, C    CO2     25
+ 2 Bassitt      MOR     15    2 Urias        DOU   .242     2 Musgrove, J  SEG    904     2 Wainwright   CO2     25
+ 3 Morton, C    CO2     14    3 Darvish      FEJ   .245     3 Darvish      FEJ    890     3 Gausman      SLA     19
+ 4 Musgrove, J  SEG     14    4 Alcantara, S SLA   .259     4 Kelly, M     SKR    884     4 Marquez, G   AVC     18
+ 5 Freeland, K  AVC     14    5 Gallen       COM   .262     5 Freeland, K  AVC    879     5 Kelly, M     SKR     17
+
+   Wild Pitches                 Opponent Slugging%            GIDP Induced                  Pitcher Win Streak
+ 1 Ohtani, S    MOR     13    1 Darvish      FEJ   .329     1 Wainwright   CO2     25     1 Mantiply, J  MOR      5
+ 2 Ottavino     SKR     11    2 Alcantara, S SLA   .330     2 Freeland, K  AVC     23     2 Edwards Jr.  SKR      5
+ 3 Musgrove, J  SEG      8    3 Webb, L      MOR   .335     3 Webb, L      MOR     21     3 Gonsolin     SEG      4
+ 4 Garcia, L    MOR      8    4 Gallen       COM   .341     4 Cueto        SEG     20     4 Herget       MOR      4
+ 5 Nelson, N    AVC      8    5 Cobb         DOU   .341     5 Alcantara, S SLA     19     5 Barria       SKR      4
+
+   K/W Ratio                    Opponent OPS                  Save%                         No-Hitters
+ 1 Nola, A      MOR   11.4    1 Darvish      FEJ   .573     1 Bard, D      COM   97.9        None
+ 2 Gausman      SLA    6.8    2 Urias        DOU   .587     2 Robertson, D DOU   90.7    
+ 3 Darvish      FEJ    5.5    3 Alcantara, S SLA   .589                                  
+ 4 Wheeler      COM    4.7    4 Nola, A      MOR   .596                                  
+ 5 Cobb         DOU    4.7    5 Gallen       COM   .603                                  
+
+
+____________________________________________________________________________________________________________________________________________
